@@ -1,0 +1,20 @@
+*
+#nav-ul
+{
+    display: inline-flex;
+}
+.img h1
+{
+    margin-top: -340px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    font-size: 44px;
+
+}
+.img h1 p
+{
+font: optional;
+text-align: center;
+
+    
+}
